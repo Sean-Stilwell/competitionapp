@@ -1,6 +1,6 @@
 # Final Project - CSI2532
 
-Sean Stilwell - 300053246
+Sean Stilwell
 
 This repository contains all files and documentation for the final deliverables (3 and 4) of the final project for CSI2532 (Databases I) in Winter 2020. Here is a breakdown of eachdeliverable requirements and where they can be found for evaluation:
 
